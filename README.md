@@ -43,26 +43,3 @@ Leave a comment and let me know. I'd love to hear from you and make content that
 =================================
 
 Thank you for watching, and I look forward to helping you on your web development journey! 🚀
-
-00:00 Portfolio Website Overview
-02:31 Setting up HTML And CSS file
-02:47 Make Header Section HTML CSS
-27:03 Make Resposive Header CSS
-39:20 Hero Section HTML CSS
-55:38 Resposive Hero Section HTML CSS
-01:00:36 About Section HTML CSS
-01:00:36 Responsive About Section HTML CSS
-01:27:58 Services Section HTML CSS
-01:41:08 Experties Section HTML CSS
-01:49:45 Portfolio Section HTML CSS
-02:04:10 Responsive Portfolio Section HTML CSS
-02:04:10 Isotope Gallery Setup Portfolio Section
-02:11:10 Contact Form Section HTML CSS
-02:20:32 Contact Form Validation Setup
-02:25:38 Footer HTML CSS
-02:41:15 Footer Copyright Area HTML CSS
-02:46:40 Theme Settings Options
-03:05:07 Dark Mode Website HTML CSS
-
-
-#WebDevelopment #WebDevelopmentTutorial #HTML #CSS #JavaScript #MERNStack #MEANStack #LAMPStack #BackendDevelopment #FrontendDevelopment #CodingTutorials #OpenSourceCoding #LearnToCode #ProgrammingTips #CodeNewbie #CodeCommunity #GitHub #Patreon #SocialMedia #SubscribeToMyChannel #NotificationBell #TutorialRequest #ExplanationVideo #ProgrammingEducation
